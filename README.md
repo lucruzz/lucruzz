@@ -6,7 +6,7 @@ I'm a computer engineering graduate student at Federal Centre for Technological 
 
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
-#### 🌎 "Without effort, there will never be progress!"
+#### 🌎 "Without effort, there will never be progress!" ☁️ 
 
 - 📫 How to **[contact](mailto:lucas.cruz@aluno.cefet-rj.br)** me: **[lucas.cruz@aluno.cefet-rj.br](mailto:lucas.cruz@aluno.cefet-rj.br).**
 
