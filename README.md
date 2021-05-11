@@ -12,7 +12,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 Reach me out 👇🏿
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/lucaznogueira/)](https://www.instagram.com/lucaznogueira/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/lucaznogueira/)](https://www.instagram.com/lucaznogueira/) [![Twitter Badge](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/lucruz19)](https://twitter.com/lucruz19) [![Youtube Badge](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCwVRMnVfEFkpJVjnyUKuNpw/featured) 
 
 **💻 Technologies & Tools**
 
