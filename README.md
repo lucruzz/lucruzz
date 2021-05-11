@@ -1,3 +1,5 @@
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=lucruzz&repo=lucruzz&countColorcountColor)
+
 ### Hi there 👋🏿 
 
 My name is Lucas Cruz, I'm from Brazil 🇧🇷. 
