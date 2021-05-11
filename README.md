@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-My name is Lucas Cruz, I'm from Brazil 🇧🇷. I'm a computer engineering graduate student at Federal Centre for Technological Education of Rio de Janeiro (CEFET/RJ). I'm also, a scientific initiation student, since 2020, sponsored by the National Council for Scientific and Technological Development (CNPq/Brazil), at National Laboratory for Scientific Computing (LNCC/Brazil) where I has been collaborating for a project that involves scientific workflows for HPC.
+My name is Lucas Cruz, I'm from Brazil 🇧🇷. 
+
+I'm a computer engineering graduate student at Federal Centre for Technological Education of Rio de Janeiro (CEFET/RJ). I'm also, a scientific initiation student, since 2020, sponsored by the National Council for Scientific and Technological Development (CNPq/Brazil), at National Laboratory for Scientific Computing (LNCC/Brazil) where I has been collaborating for a project that involves scientific workflows for HPC.
 
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
