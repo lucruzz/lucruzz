@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🏿 
 
 My name is Lucas Cruz, I'm from Brazil 🇧🇷. 
 
@@ -8,6 +8,17 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 #### 🌎 "Without effort, there will never be progress!"
 
+Reach me out 👇🏿
+
+**💻 Technologies & Tools**
+
+
+## ⭐ GitHub Stats
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=lucruzz&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lucruzz&theme=tokyonight">
+</p>
 <!--
 **lucruzz/lucruzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
