@@ -9,16 +9,22 @@ I'm passionate about solving problems and learning. Always open to new challenge
 #### 🌎 "Without effort, there will never be progress!"
 
 Reach me out 👇🏿
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/lucaznogueira/)](https://www.instagram.com/lucaznogueira/) ![Twitter Badge](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/lucruz19)](https://twitter.com/lucruz19)
 
 **💻 Technologies & Tools**
+![C Badge](https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white) ![C++ Badge](https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white) ![Java Badge](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white) ![Python Badge](https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white) ![MySQL Badge](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white) 
 
 
+<!--
 ## ⭐ GitHub Stats
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=lucruzz&show_icons=false&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=lucruzz&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lucruzz&theme=tokyonight">
 </p>
+
+-->
+
 <!--
 **lucruzz/lucruzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
