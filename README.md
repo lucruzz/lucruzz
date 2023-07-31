@@ -4,13 +4,13 @@
 
 My name is Lucas Cruz, I'm from Brazil 🇧🇷. 
 
-I'm a computer engineering graduate student at Federal Centre for Technological Education of Rio de Janeiro (CEFET/RJ). I'm also, a scientific initiation student, since 2020, sponsored by the National Council for Scientific and Technological Development (CNPq/Brazil), at National Laboratory for Scientific Computing (LNCC/Brazil) where I has been collaborating for a project that involves scientific workflows for HPC.
+I'm a computer engineering graduate at Federal Centre for Technological Education of Rio de Janeiro (CEFET/RJ). I'm also, a scientific initiation student, since 2019, sponsored by the National Council for Scientific and Technological Development (CNPq/Brazil), at National Laboratory for Scientific Computing (LNCC/Brazil) where I has been collaborating for a project that involves scientific workflows for HPC.
 
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
 #### 🌎 "Without effort, there will never be progress!" ☁️ 
 
-- 📫 How to **[contact](mailto:lucas.cruz@aluno.cefet-rj.br)** me: **[lucas.cruz@aluno.cefet-rj.br](mailto:lucas.cruz@aluno.cefet-rj.br).**
+- 📫 How to **[contact](mailto:lucascruzlcs@gmail.com)** me: **[lucascruzlcs@gmail.com](mailto:lucascruzlcs@gmail.com).**
 
 Reach me out 👇🏿
 
@@ -20,7 +20,7 @@ Reach me out 👇🏿
 
 ![C Badge](https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white) ![C++ Badge](https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white) ![Java Badge](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white) ![Python Badge](https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white) ![MySQL Badge](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white) ![VIM Badge](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white) ![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Visual_Studio_Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Atom Badge](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=green)
 
-
+**💻 Learning**
 <!--
 ## ⭐ GitHub Stats
 
