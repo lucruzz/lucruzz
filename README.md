@@ -1,51 +1,202 @@
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=lucruzz&repo=lucruzz&countColorcountColor)
+<!-- ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=lucruzz&repo=lucruzz&countColorcountColor) -->
+# 👨🏾‍💻 Lucas da Cruz
 
-### Hi there 👋🏿 
+I'm something between **`Dev`** and **`Ops`**.
 
-My name is Lucas Cruz, I'm from Brazil 🇧🇷. 
+My name is Lucas Cruz. I graduated in Computer Engineering from the Federal Center for Technological Education of Rio de Janeiro (CEFET-RJ, Brazil) in 2023. I am also a master's student at the National Laboratory for Scientific Computing (LNCC, Brazil) since 2023.
 
-I'm a computer engineering graduate at Federal Centre for Technological Education of Rio de Janeiro (CEFET/RJ). I'm also, a scientific initiation student, since 2019, sponsored by the National Council for Scientific and Technological Development (CNPq/Brazil), at National Laboratory for Scientific Computing (LNCC/Brazil) where I has been collaborating for a project that involves scientific workflows for HPC.
+I am passionate about solving problems and learning.
 
-I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
+**Oh, and I love programming!**
+
+I am always open to new challenges and ready to embrace change.
 
 #### 🌎 "Without effort, there will never be progress!" ☁️ 
 
-- 📫 How to **[contact](mailto:lucascruzlcs@gmail.com)** me: **[lucascruzlcs@gmail.com](mailto:lucascruzlcs@gmail.com).**
+- 📫 How to **[contact](mailto:lucascruzlcs@gmail.com)** me: <!--**[lucascruzlcs@gmail.com](mailto:lucascruzlcs@gmail.com).**-->
 
-Reach me out 👇🏿
+[![GMail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucascruzlcs@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-cruz-87034a1a8/)](https://www.linkedin.com/in/lucas-cruz-87034a1a8/) [![Youtube Badge](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCwVRMnVfEFkpJVjnyUKuNpw/featured)
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-cruz-87034a1a8/)](https://www.linkedin.com/in/lucas-cruz-87034a1a8/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/lucaznogueira/)](https://www.instagram.com/lucaznogueira/) <!--[![Twitter Badge](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/lucruz19)](https://twitter.com/lucruz19) -->[![Youtube Badge](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCwVRMnVfEFkpJVjnyUKuNpw/featured)
+---
 
-**💻 Technologies & Tools**
+### 💻 Technologies & Tools
 
-![C Badge](https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white) ![C++ Badge](https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white) ![Java Badge](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white) ![Python Badge](https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white) ![MySQL Badge](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white) ![VIM Badge](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white) ![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Visual_Studio_Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Atom Badge](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=green) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**💻 Learning**
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="C" 
+    title="C"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="C++" 
+    title="C++"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Bash" 
+    title="Bash"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Linux" 
+    title="Linux"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Bitbucket" 
+    title="Bitbucket"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" 
+/>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+<br/>
+<br/>
+
+---
+
+### 💻 Learning
+
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<br/>
+<br/>
+
+---
+
+### ⭐ GitHub Stats
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=lucruzz&show_icons=true&theme=tokyonight&line_height=27&custom_title=Stats"
+  />
+  <img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucruzz&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=10&hide=HTML,Jupyter%20Notebook" 
+  />
+
+</p>
+
 <!--
 ## ⭐ GitHub Stats
 
 <p align = "center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucruzz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br">
   <img src = "https://github-readme-stats.vercel.app/api?username=lucruzz&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lucruzz&theme=tokyonight">
 </p>
-
--->
-
-<!--
-**lucruzz/lucruzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-https://github.com/Ileriayo/markdown-badges
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
