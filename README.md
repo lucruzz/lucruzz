@@ -134,7 +134,14 @@ I am always open to new challenges and ready to embrace change.
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" 
 />
-
+<img 
+    align="left" 
+    alt="Bitbucket" 
+    title="Bitbucket"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" 
+/>
 
 <br/>
 <br/>
